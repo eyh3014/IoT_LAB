@@ -1,0 +1,327 @@
+Starting Jedi Python language engine.
+Diagnostic Code: LSNotSupportedDiagnostic, Message: Your operating system does not meet the minimum requirements of the Language Server. Reverting to the alternative, Jedi.
+##########Linting Output - pylint##########
+************* Module app_start
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+7,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+8,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+8,16,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+8,36,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+24,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+--------------------------------------------------------------------
+Your code has been rated at -7.65/10 (previous run: -7.65/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module app_start
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+7,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+8,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+8,16,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+8,36,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+16,4,error,no-member:Module 'RPi.GPIO' has no 'output' member
+16,21,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+21,4,error,no-member:Module 'RPi.GPIO' has no 'output' member
+21,21,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+26,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+---------------------------------------------------------------------
+Your code has been rated at -16.32/10 (previous run: -7.65/10, -8.67)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module app
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+7,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+8,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+8,16,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+8,36,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+16,4,error,no-member:Module 'RPi.GPIO' has no 'output' member
+16,21,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+21,4,error,no-member:Module 'RPi.GPIO' has no 'output' member
+21,21,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+26,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+----------------------------------------------------------------------
+Your code has been rated at -16.32/10 (previous run: 10.00/10, -26.32)
+
+##########Linting Output - pylint##########
+************* Module app_start
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+7,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+8,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+8,16,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+8,36,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+16,4,error,no-member:Module 'RPi.GPIO' has no 'output' member
+16,21,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+21,4,error,no-member:Module 'RPi.GPIO' has no 'output' member
+21,21,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+26,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+----------------------------------------------------------------------
+Your code has been rated at -16.32/10 (previous run: -16.32/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module app
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+7,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+8,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+8,16,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+8,36,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+16,4,error,no-member:Module 'RPi.GPIO' has no 'output' member
+16,21,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+21,4,error,no-member:Module 'RPi.GPIO' has no 'output' member
+21,21,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+26,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+----------------------------------------------------------------------
+Your code has been rated at -16.32/10 (previous run: -16.32/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module app
+3,0,error,no-member:Module 'RPi.GPIO' has no 'setwarnings' member
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+7,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+8,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+8,16,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+8,36,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+16,4,error,no-member:Module 'RPi.GPIO' has no 'output' member
+16,21,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+21,4,error,no-member:Module 'RPi.GPIO' has no 'output' member
+21,21,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+26,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+----------------------------------------------------------------------
+Your code has been rated at -17.50/10 (previous run: -16.32/10, -1.18)
+
+##########Linting Output - pylint##########
+************* Module app
+4,0,error,no-member:Module 'RPi.GPIO' has no 'setwarnings' member
+9,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+9,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+10,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+10,16,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+10,36,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+18,12,error,undefined-variable:Undefined variable 'request'
+20,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+20,25,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+22,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+22,25,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+31,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+----------------------------------------------------------------------
+Your code has been rated at -15.00/10 (previous run: -17.50/10, +2.50)
+
+##########Linting Output - pylint##########
+************* Module app
+3,0,error,no-member:Module 'RPi.GPIO' has no 'setwarnings' member
+6,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+6,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+7,16,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+7,36,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+13,12,error,undefined-variable:Undefined variable 'request'
+15,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+15,25,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+17,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+17,25,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+25,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+----------------------------------------------------------------------
+Your code has been rated at -15.00/10 (previous run: -15.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module app
+3,0,error,no-member:Module 'RPi.GPIO' has no 'setwarnings' member
+6,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+6,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+7,16,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+7,36,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+13,12,error,undefined-variable:Undefined variable 'request'
+15,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+15,25,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+17,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+17,25,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+25,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+----------------------------------------------------------------------
+Your code has been rated at -15.00/10 (previous run: -15.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module app
+3,0,error,no-member:Module 'RPi.GPIO' has no 'setwarnings' member
+6,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+6,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+7,15,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+7,33,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+13,12,error,undefined-variable:Undefined variable 'request'
+15,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+15,24,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+17,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+17,24,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+25,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+----------------------------------------------------------------------
+Your code has been rated at -15.00/10 (previous run: -15.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module app
+3,0,error,no-member:Module 'RPi.GPIO' has no 'setwarnings' member
+6,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+6,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+7,15,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+7,33,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+13,12,error,undefined-variable:Undefined variable 'request'
+15,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+15,24,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+17,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+17,24,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+25,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+----------------------------------------------------------------------
+Your code has been rated at -15.00/10 (previous run: -15.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module app
+3,0,error,no-member:Module 'RPi.GPIO' has no 'setwarnings' member
+6,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+6,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+7,15,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+7,33,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+13,12,error,undefined-variable:Undefined variable 'request'
+15,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+15,24,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+17,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+17,24,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+25,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+----------------------------------------------------------------------
+Your code has been rated at -15.00/10 (previous run: -15.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module app
+3,0,error,no-member:Module 'RPi.GPIO' has no 'setwarnings' member
+6,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+6,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+7,15,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+7,33,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+13,12,error,undefined-variable:Undefined variable 'request'
+15,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+15,24,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+17,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+17,24,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+25,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+----------------------------------------------------------------------
+Your code has been rated at -15.00/10 (previous run: -15.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module app
+3,0,error,no-member:Module 'RPi.GPIO' has no 'setwarnings' member
+6,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+6,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+7,15,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+7,33,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+15,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+15,24,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+17,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+17,24,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+25,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+----------------------------------------------------------------------
+Your code has been rated at -12.92/10 (previous run: -15.00/10, +2.08)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module index
+25,0,error,syntax-error:expected an indented block (<unknown>, line 25)
+##########Linting Output - pylint##########
+************* Module index
+5,0,error,no-member:Module 'RPi.GPIO' has no 'setwarnings' member
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+7,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+8,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+8,14,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+8,34,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+17,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+17,23,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+19,11,error,undefined-variable:Undefined variable 'expression'
+19,4,warning,unused-variable:Unused variable 'identifier'
+25,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+25,23,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+27,11,error,undefined-variable:Undefined variable 'expression'
+27,4,warning,unused-variable:Unused variable 'identifier'
+
+-------------------------------------
+Your code has been rated at -16.96/10
+
+##########Linting Output - pylint##########
+************* Module index
+6,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+6,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+7,14,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+7,34,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+16,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+16,23,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+18,11,error,undefined-variable:Undefined variable 'expression'
+18,4,warning,unused-variable:Unused variable 'identifier'
+24,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+24,23,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+26,11,error,undefined-variable:Undefined variable 'expression'
+26,4,warning,unused-variable:Unused variable 'identifier'
+
+----------------------------------------------------------------------
+Your code has been rated at -15.91/10 (previous run: -16.96/10, +1.05)
+
+##########Linting Output - pylint##########
+************* Module index
+6,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+6,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+7,14,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+7,34,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+16,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+16,22,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+18,11,error,undefined-variable:Undefined variable 'expression'
+18,4,warning,unused-variable:Unused variable 'identifier'
+24,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+24,22,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+26,11,error,undefined-variable:Undefined variable 'expression'
+26,4,warning,unused-variable:Unused variable 'identifier'
+
+----------------------------------------------------------------------
+Your code has been rated at -15.91/10 (previous run: -15.91/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module index
+6,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+6,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+7,14,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+7,32,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+16,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+16,22,error,no-member:Module 'RPi.GPIO' has no 'HIGH' member
+18,11,error,undefined-variable:Undefined variable 'expression'
+18,4,warning,unused-variable:Unused variable 'identifier'
+24,8,error,no-member:Module 'RPi.GPIO' has no 'output' member
+24,22,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+26,11,error,undefined-variable:Undefined variable 'expression'
+26,4,warning,unused-variable:Unused variable 'identifier'
+
+----------------------------------------------------------------------
+Your code has been rated at -15.91/10 (previous run: -15.91/10, +0.00)
+

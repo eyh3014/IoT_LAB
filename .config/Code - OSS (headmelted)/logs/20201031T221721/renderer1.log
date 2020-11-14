@@ -1,0 +1,205 @@
+[2020-10-31 22:17:27.375] [renderer1] [error] submitURL is a required option to crashReporter.start: Error: submitURL is a required option to crashReporter.start
+    at CrashReporter.start (/usr/share/code-oss/resources/electron.asar/common/api/crash-reporter.js:43:13)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2927:739
+    at n.Class.define.cancel.then (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:166:366)
+    at e.startCrashReporter (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2927:642)
+    at e (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2927:307)
+    at t.create (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:117:535)
+    at t.e._createInstance (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:1412:928)
+    at t.e.createInstance (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:1412:263)
+    at t.initServiceCollection (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5590:663)
+    at t.renderContents (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5585:363)
+    at t.open (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5593:363)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5601:96
+    at <anonymous>
+[2020-10-31 22:17:28.554] [renderer1] [info] no standard startup: not running latest version
+[2020-10-31 23:03:48.679] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 23:03:50.199] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 23:03:51.952] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 23:03:53.545] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 23:03:55.281] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 23:03:56.463] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 23:03:58.586] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 23:04:00.771] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 23:04:01.882] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 23:04:04.199] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 23:32:03.577] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:203:922)
+    at e.isCollapsed (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:203:390)
+    at i.e.isCollapsed (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:919:1004)
+    at i.e.isExpanded (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:920:48)
+    at t.revealMarkersForCurrentActiveEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4603:827)
+    at t.autoReveal (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4603:647)
+    at t.onActiveEditorChanged (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4600:826)
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:283)
+    at t.doEmitActiveEditorChangeEvent (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4613:942)
+    at t.handleActiveEditorChange (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4613:718)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4614:55
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:748
+    at n.Class.define.cancel.then (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:166:366)
+    at t.doShowEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:694)
+    at t.doOpenEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:566)
+    at t.openEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:139)
+    at r (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4538:306)
+    at HTMLDivElement.<anonymous> (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4538:501)
+[2020-10-31 23:35:15.274] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:203:922)
+    at e.isCollapsed (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:203:390)
+    at i.e.isCollapsed (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:919:1004)
+    at i.e.isExpanded (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:920:48)
+    at t.revealMarkersForCurrentActiveEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4603:827)
+    at t.autoReveal (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4603:647)
+    at t.onActiveEditorChanged (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4600:826)
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:283)
+    at t.doEmitActiveEditorChangeEvent (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4613:942)
+    at t.handleActiveEditorChange (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4613:718)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4614:55
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:748
+    at n.Class.define.cancel.then (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:166:366)
+    at t.doShowEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:694)
+    at t.doOpenEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:566)
+    at t.openEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:139)
+    at r (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4538:306)
+    at HTMLDivElement.<anonymous> (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4538:501)
+[2020-10-31 23:35:19.187] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:203:922)
+    at e.isCollapsed (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:203:390)
+    at i.e.isCollapsed (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:919:1004)
+    at i.e.isExpanded (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:920:48)
+    at t.revealMarkersForCurrentActiveEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4603:827)
+    at t.autoReveal (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4603:647)
+    at t.onActiveEditorChanged (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4600:826)
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:283)
+    at t.doEmitActiveEditorChangeEvent (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4613:942)
+    at t.handleActiveEditorChange (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4613:718)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4614:55
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:748
+    at n.Class.define.cancel.then (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:166:366)
+    at t.doShowEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:694)
+    at t.doOpenEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:566)
+    at t.openEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:139)
+    at r (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4538:306)
+    at HTMLDivElement.<anonymous> (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4538:501)
+[2020-10-31 23:42:36.250] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:203:922)
+    at e.isCollapsed (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:203:390)
+    at i.e.isCollapsed (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:919:1004)
+    at i.e.isExpanded (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:920:48)
+    at t.revealMarkersForCurrentActiveEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4603:827)
+    at t.autoReveal (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4603:647)
+    at t.onActiveEditorChanged (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4600:826)
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:283)
+    at t.doEmitActiveEditorChangeEvent (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4613:942)
+    at t.handleActiveEditorChange (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4613:718)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4614:55
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:748
+    at n.Class.define.cancel.then (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:166:366)
+    at t.doShowEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:694)
+    at t.doOpenEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:566)
+    at t.openEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:139)
+    at r (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4538:306)
+    at HTMLDivElement.<anonymous> (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4538:501)
+[2020-10-31 23:51:19.159] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at e.getElementLocation (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:203:922)
+    at e.isCollapsed (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:203:390)
+    at i.e.isCollapsed (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:919:1004)
+    at i.e.isExpanded (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:920:48)
+    at t.revealMarkersForCurrentActiveEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4603:827)
+    at t.autoReveal (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4603:647)
+    at t.onActiveEditorChanged (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4600:826)
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:283)
+    at t.doEmitActiveEditorChangeEvent (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4613:942)
+    at t.handleActiveEditorChange (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4613:718)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4614:55
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:748
+    at n.Class.define.cancel.then (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:166:366)
+    at t.doShowEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:694)
+    at t.doOpenEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:566)
+    at t.openEditor (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5080:139)
+    at r (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4538:306)
+    at HTMLDivElement.<anonymous> (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:4538:501)

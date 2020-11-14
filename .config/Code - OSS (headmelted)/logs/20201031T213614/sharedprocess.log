@@ -1,0 +1,98 @@
+[2020-10-31 21:36:19.688] [sharedprocess] [info] main {"machineId":"0cb34c347fa3a8db75e79b66cb56947cdc991825323dd89e0c79ab23c3c49888"}
+[2020-10-31 21:36:19.749] [sharedprocess] [info] Scanned user extensions: 0
+[2020-10-31 21:36:19.901] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:36:22.323] [sharedprocess] [info] Scanned user extensions: 0
+[2020-10-31 21:36:22.336] [sharedprocess] [info] Scanned user extensions: 0
+[2020-10-31 21:36:22.745] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:36:22.755] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:36:24.023] [sharedprocess] [info] Scanned user extensions: 0
+[2020-10-31 21:36:59.698] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-10-31 21:37:08.148] [sharedprocess] [info] Scanned user extensions: 0
+[2020-10-31 21:37:08.163] [sharedprocess] [info] Scanned user extensions: 0
+[2020-10-31 21:37:08.657] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:37:08.678] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:37:09.472] [sharedprocess] [info] Scanned user extensions: 0
+[2020-10-31 21:42:09.507] [sharedprocess] [info] Scanned user extensions: 0
+[2020-10-31 21:44:19.636] [sharedprocess] [info] Scanned user extensions: 0
+[2020-10-31 21:44:19.758] [sharedprocess] [info] Scanned user extensions: 0
+[2020-10-31 21:44:19.775] [sharedprocess] [info] Scanned user extensions: 0
+[2020-10-31 21:44:19.799] [sharedprocess] [info] Scanned user extensions: 0
+[2020-10-31 21:44:20.313] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:44:20.320] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:44:20.329] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:44:50.716] [sharedprocess] [info] Installing extension: python-extension-pack
+[2020-10-31 21:44:50.724] [sharedprocess] [info] Scanned user extensions: 0
+[2020-10-31 21:44:51.583] [sharedprocess] [info] Downloaded extension: python-extension-pack /tmp/ca91aff0-3080-425f-984b-9657a274e9b6
+[2020-10-31 21:44:51.700] [sharedprocess] [info] Extracted extension to /home/pi/.vscode-oss/extensions/.donjayamanne.python-extension-pack-1.6.0: donjayamanne.python-extension-pack-1.6.0
+[2020-10-31 21:44:51.701] [sharedprocess] [info] Renamed to /home/pi/.vscode-oss/extensions/donjayamanne.python-extension-pack-1.6.0
+[2020-10-31 21:44:51.701] [sharedprocess] [info] Installation completed. donjayamanne.python-extension-pack-1.6.0
+[2020-10-31 21:44:51.818] [sharedprocess] [info] Scanned user extensions: 1
+[2020-10-31 21:44:51.993] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:44:52.190] [sharedprocess] [info] Installing extension: python
+[2020-10-31 21:44:52.192] [sharedprocess] [info] Installing extension: vscodeintellicode
+[2020-10-31 21:44:52.193] [sharedprocess] [info] Installing extension: MagicPython
+[2020-10-31 21:44:52.194] [sharedprocess] [info] Installing extension: vscode-django
+[2020-10-31 21:44:52.195] [sharedprocess] [info] Installing extension: jinja
+[2020-10-31 21:44:52.221] [sharedprocess] [info] Scanned user extensions: 1
+[2020-10-31 21:44:52.225] [sharedprocess] [info] Scanned user extensions: 1
+[2020-10-31 21:44:52.228] [sharedprocess] [info] Scanned user extensions: 1
+[2020-10-31 21:44:52.238] [sharedprocess] [info] Scanned user extensions: 1
+[2020-10-31 21:44:52.241] [sharedprocess] [info] Scanned user extensions: 1
+[2020-10-31 21:44:52.703] [sharedprocess] [info] Downloaded extension: MagicPython /tmp/5ee2db11-f6eb-41a1-9e51-73f48852f4c0
+[2020-10-31 21:44:54.343] [sharedprocess] [info] Downloaded extension: jinja /tmp/a89e0dca-ea95-48cb-88e8-b7356e9d383d
+[2020-10-31 21:44:54.698] [sharedprocess] [info] Extracted extension to /home/pi/.vscode-oss/extensions/.wholroyd.jinja-0.0.8: wholroyd.jinja-0.0.8
+[2020-10-31 21:44:54.700] [sharedprocess] [info] Renamed to /home/pi/.vscode-oss/extensions/wholroyd.jinja-0.0.8
+[2020-10-31 21:44:54.700] [sharedprocess] [info] Installation completed. wholroyd.jinja-0.0.8
+[2020-10-31 21:44:54.784] [sharedprocess] [info] Extensions installed successfully: wholroyd.jinja
+[2020-10-31 21:44:55.003] [sharedprocess] [info] Scanned user extensions: 2
+[2020-10-31 21:44:55.342] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:44:57.641] [sharedprocess] [info] Downloaded extension: vscodeintellicode /tmp/a25776a8-ace5-43d2-95f9-beb93f2fcaa4
+[2020-10-31 21:44:59.597] [sharedprocess] [info] Extracted extension to /home/pi/.vscode-oss/extensions/.magicstack.magicpython-1.1.0: magicstack.magicpython-1.1.0
+[2020-10-31 21:44:59.598] [sharedprocess] [info] Renamed to /home/pi/.vscode-oss/extensions/magicstack.magicpython-1.1.0
+[2020-10-31 21:44:59.598] [sharedprocess] [info] Installation completed. magicstack.magicpython-1.1.0
+[2020-10-31 21:44:59.608] [sharedprocess] [info] Downloaded extension: python /tmp/88ab4ffb-0140-4966-8c20-59a76307a214
+[2020-10-31 21:44:59.694] [sharedprocess] [info] Extensions installed successfully: magicstack.magicpython
+[2020-10-31 21:44:59.925] [sharedprocess] [info] Scanned user extensions: 3
+[2020-10-31 21:45:00.147] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:45:00.211] [sharedprocess] [info] Downloaded extension: vscode-django /tmp/3a2efae8-275d-4528-aa19-0cefb958dd57
+[2020-10-31 21:45:22.578] [sharedprocess] [info] Extracted extension to /home/pi/.vscode-oss/extensions/.ms-python.python-2019.1.0: ms-python.python-2019.1.0
+[2020-10-31 21:45:22.582] [sharedprocess] [info] Renamed to /home/pi/.vscode-oss/extensions/ms-python.python-2019.1.0
+[2020-10-31 21:45:22.582] [sharedprocess] [info] Installation completed. ms-python.python-2019.1.0
+[2020-10-31 21:45:22.696] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-10-31 21:45:22.978] [sharedprocess] [info] Scanned user extensions: 4
+[2020-10-31 21:45:22.994] [sharedprocess] [info] Scanned user extensions: 4
+[2020-10-31 21:45:23.328] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:45:23.349] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:45:37.283] [sharedprocess] [info] Extracted extension to /home/pi/.vscode-oss/extensions/.batisteo.vscode-django-0.20.0: batisteo.vscode-django-0.20.0
+[2020-10-31 21:45:37.285] [sharedprocess] [info] Renamed to /home/pi/.vscode-oss/extensions/batisteo.vscode-django-0.20.0
+[2020-10-31 21:45:37.285] [sharedprocess] [info] Installation completed. batisteo.vscode-django-0.20.0
+[2020-10-31 21:45:37.396] [sharedprocess] [info] Extensions installed successfully: batisteo.vscode-django
+[2020-10-31 21:45:37.641] [sharedprocess] [info] Scanned user extensions: 5
+[2020-10-31 21:45:37.829] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:45:40.867] [sharedprocess] [info] Extracted extension to /home/pi/.vscode-oss/extensions/.visualstudioexptteam.vscodeintellicode-1.0.6: visualstudioexptteam.vscodeintellicode-1.0.6
+[2020-10-31 21:45:40.868] [sharedprocess] [info] Renamed to /home/pi/.vscode-oss/extensions/visualstudioexptteam.vscodeintellicode-1.0.6
+[2020-10-31 21:45:40.868] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode-1.0.6
+[2020-10-31 21:45:40.922] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2020-10-31 21:45:40.925] [sharedprocess] [info] Extensions installed successfully: donjayamanne.python-extension-pack
+[2020-10-31 21:45:41.116] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 21:45:41.128] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 21:45:41.232] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:45:41.239] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:46:03.979] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 21:46:04.006] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 21:46:04.121] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:46:04.322] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 21:46:04.343] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 21:46:04.360] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 21:46:04.884] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:46:04.900] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:46:04.914] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:46:06.298] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 21:47:35.033] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 21:47:35.200] [sharedprocess] [info] Scanned system extensions: 70
+[2020-10-31 21:51:06.385] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 21:56:06.428] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 22:01:06.467] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 22:06:06.518] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 22:11:06.587] [sharedprocess] [info] Scanned user extensions: 6
+[2020-10-31 22:16:06.760] [sharedprocess] [info] Scanned user extensions: 6

@@ -1,0 +1,4 @@
+
+[Default Applications]
+text/html=code-oss-url-handler.desktop
+x-scheme-handler/code-oss=code-oss-url-handler.desktop

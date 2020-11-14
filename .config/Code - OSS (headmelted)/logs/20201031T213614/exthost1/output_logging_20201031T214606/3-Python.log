@@ -1,0 +1,69 @@
+Starting Jedi Python language engine.
+Diagnostic Code: LSNotSupportedDiagnostic, Message: Your operating system does not meet the minimum requirements of the Language Server. Reverting to the alternative, Jedi.
+Linting with pylint failed.
+Error: Module 'pylint' not installed.
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module app_start
+6,0,error,syntax-error:unexpected EOF while parsing (<unknown>, line 6)
+##########Linting Output - pylint##########
+************* Module app_start
+2,12,error,undefined-variable:Undefined variable '_name_'
+6,3,error,undefined-variable:Undefined variable '_name_'
+
+------------------------------------
+Your code has been rated at -6.67/10
+
+##########Linting Output - pylint##########
+
+---------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: -6.67/10, +16.67)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module app_start
+27,0,error,syntax-error:invalid syntax (<unknown>, line 27)
+##########Linting Output - pylint##########
+************* Module app_start
+27,0,error,syntax-error:invalid syntax (<unknown>, line 27)
+##########Linting Output - pylint##########
+************* Module app_start
+7,0,error,no-member:Module 'RPi.GPIO' has no 'setmode' member
+7,13,error,no-member:Module 'RPi.GPIO' has no 'BOARD' member
+8,0,error,no-member:Module 'RPi.GPIO' has no 'setup' member
+8,16,error,no-member:Module 'RPi.GPIO' has no 'OUT' member
+8,36,error,no-member:Module 'RPi.GPIO' has no 'LOW' member
+24,4,error,no-member:Module 'RPi.GPIO' has no 'cleanup' member
+
+------------------------------------
+Your code has been rated at -7.65/10
+

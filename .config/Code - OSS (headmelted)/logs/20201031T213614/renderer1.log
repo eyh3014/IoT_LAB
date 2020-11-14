@@ -1,0 +1,153 @@
+[2020-10-31 21:36:22.102] [renderer1] [error] submitURL is a required option to crashReporter.start: Error: submitURL is a required option to crashReporter.start
+    at CrashReporter.start (/usr/share/code-oss/resources/electron.asar/common/api/crash-reporter.js:43:13)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2927:739
+    at n.Class.define.cancel.then (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:166:366)
+    at e.startCrashReporter (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2927:642)
+    at e (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2927:307)
+    at t.create (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:117:535)
+    at t.e._createInstance (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:1412:928)
+    at t.e.createInstance (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:1412:263)
+    at t.initServiceCollection (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5590:663)
+    at t.renderContents (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5585:363)
+    at t.open (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5593:363)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5601:96
+    at <anonymous>
+[2020-10-31 21:36:22.201] [renderer1] [info] no standard startup: not the explorer viewlet
+[2020-10-31 21:37:07.994] [renderer1] [error] submitURL is a required option to crashReporter.start: Error: submitURL is a required option to crashReporter.start
+    at CrashReporter.start (/usr/share/code-oss/resources/electron.asar/common/api/crash-reporter.js:43:13)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2927:739
+    at n.Class.define.cancel.then (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:166:366)
+    at e.startCrashReporter (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2927:642)
+    at e (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2927:307)
+    at t.create (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:117:535)
+    at t.e._createInstance (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:1412:928)
+    at t.e.createInstance (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:1412:263)
+    at t.initServiceCollection (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5590:663)
+    at t.renderContents (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5585:363)
+    at t.open (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5593:363)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5601:96
+    at <anonymous>
+[2020-10-31 21:37:07.998] [renderer1] [info] no standard startup: not just one text editor
+[2020-10-31 21:46:03.421] [renderer1] [info] no standard startup: not a new window
+[2020-10-31 21:46:03.724] [renderer1] [error] submitURL is a required option to crashReporter.start: Error: submitURL is a required option to crashReporter.start
+    at CrashReporter.start (/usr/share/code-oss/resources/electron.asar/common/api/crash-reporter.js:43:13)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2927:739
+    at n.Class.define.cancel.then (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:166:366)
+    at e.startCrashReporter (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2927:642)
+    at e (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2927:307)
+    at t.create (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:117:535)
+    at t.e._createInstance (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:1412:928)
+    at t.e.createInstance (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:1412:263)
+    at t.initServiceCollection (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5590:663)
+    at t.renderContents (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5585:363)
+    at t.open (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5593:363)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:5601:96
+    at <anonymous>
+[2020-10-31 22:13:34.553] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 22:13:35.824] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 22:13:37.252] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 22:13:38.605] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 22:13:41.995] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 22:13:43.256] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 22:13:45.049] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 22:13:48.107] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 22:13:50.074] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 22:13:51.451] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 22:13:53.076] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2020-10-31 22:13:54.639] [renderer1] [error] Cannot read property 'label' of undefined: TypeError: Cannot read property 'label' of undefined
+    at e.getParameterLabelOffsets (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2109:42)
+    at e.renderParameters (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2108:509)
+    at e.render (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2107:292)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2104:861
+    at e.fire (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:180:263)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:2102:430
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
